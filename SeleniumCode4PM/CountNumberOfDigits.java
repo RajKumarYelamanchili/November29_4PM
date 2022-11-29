@@ -1,4 +1,4 @@
-package interviewquestions1;
+package interviewquestions1234;
 
 import java.util.Scanner;
 
